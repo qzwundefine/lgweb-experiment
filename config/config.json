@@ -1,0 +1,12 @@
+{
+  "main": {
+    "name": "主应用",
+    "packageName": "@/packages/main",
+    "port": 4170
+  },
+  "react-child": {
+    "name": "React子应用",
+    "packageName": "@/packages/react-child",
+    "port": 4171
+  }
+}
